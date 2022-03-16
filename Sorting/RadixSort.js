@@ -19,7 +19,7 @@ Best - O(nk) --- n-length of arr, k- the length of largest digit
 Average - O(nk)
 Worst - O(nk)
 
-SPACE Complexity -- O(nk)
+SPACE Complexity -- O(n+k)
 */
 
 
