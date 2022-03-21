@@ -4,8 +4,5 @@
         pkgs.nodePackages.typescript-language-server
         pkgs.nodePackages.yarn
         pkgs.replitPackages.jest
-	pkgs.docker
-	pkgs.docker-client
-	pkgs.docker.io
 	];
 }
