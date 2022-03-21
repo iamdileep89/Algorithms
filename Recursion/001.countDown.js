@@ -1,4 +1,4 @@
-// write a function to print numbers from 0 to n recursively
+// write a function to print numbers from 0 to n recursively manner
 
 
 function countDown(n){
