@@ -6,5 +6,6 @@
         pkgs.replitPackages.jest
 	pkgs.docker
 	pkgs.docker-client
+	pkgs.docker.io
 	];
 }
