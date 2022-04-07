@@ -4,7 +4,7 @@ start an inner loop with j from beginning to until i-1
 if arr[j]>arr[j+1] swap the values
 return sorted array
 
-Here we are reducing number of loops since the last value in array in each loop is a sorted item, hence need to loop the entire array again.
+Here we are reducing number of loops since the last value in array in each loop is a sorted item, hence no need to loop the entire array again.
 we need to loop array without the last item hence taking as j=i-1
 */
 
